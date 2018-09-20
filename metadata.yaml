@@ -1,5 +1,5 @@
 _repo: The-Crimson-Conquest-A-Romance-of-Pizarro-and-Peru_52920
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leyendecker, J. C. (Joseph Christian)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '47117'
     url: http://www.gutenberg.org/2009/agents/47117
+covers:
+- cover_type: archival
+  image_path: 52920-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hudson, Charles B. (Charles Bradford)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '40417'
     url: http://www.gutenberg.org/2009/agents/40417
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52920#The-Crimson-Conquest-A-Romance-of-Pizarro-and-Peru
 gutenberg_issued: '2016-08-28'
 gutenberg_type: Text
 identifiers:
